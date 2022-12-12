@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App Aunthentikasi", "App Aunthentikasi\App Aunthentikasi.csproj", "{6AA3F0AE-DD4E-48D3-B9FF-7079D7879AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA3F0AE-DD4E-48D3-B9FF-7079D7879AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA3F0AE-DD4E-48D3-B9FF-7079D7879AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA3F0AE-DD4E-48D3-B9FF-7079D7879AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA3F0AE-DD4E-48D3-B9FF-7079D7879AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59DDAECB-B687-44A6-80CC-FD03B0F94B84}
+	EndGlobalSection
+EndGlobal

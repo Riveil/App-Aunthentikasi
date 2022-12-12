@@ -1,0 +1,56 @@
+
+1. Create User
+   1. Rival123!@# typedata STRING
+   2. 10Nugroho!!10 typedata STRING
+   3. Rival123 typedata STRING
+
+   Kondisi
+--   1. First Name & Last Name > Name has to be at least consisting 2 characters or more.
+--   2. Password must have at least 8 characters.
+--   3. with at least one Capital letter, at least one lower case letter and at least one number.
+--   4. Ketika input dengan huruf maka Error: Input Not Valid.
+--   5. Create failure,Username already exists!!!
+--   6. Jika berhasil : User Success to Created!!!   
+   
+   problem
+   1. Jadi ketika memiliki nama depan 2 karakter yang sama maka pembuatan akun gagal
+   2. First_name dan last_Name harus tidak mengandung simbol dan angka.
+   3. setelah pembuatan akun harus ada tombol kembali/back menu.
+---4. Ketika input firstname lalu input lastname dengan 1 karakter string maka akan tembus.
+
+2. Show User
+   plus 
+   1. Tambahan Username diambil dari 2 karakter depan first_name dan last_name
+
+   problem 
+   1. Atribut pada tampilan kurang First Name dan Last name.
+   2. console pilih tidak ada / langsung input :
+   3. Edit User ketika di input 0 masih jalan. karena ID dimulai dari 1.
+      Tetapi saat disimpan terakhir akan mendapatkan message. Error: Input Not Valid.
+   4. Ketika Edit data dengan username pada data yang sama maka tetap akan terEdit.
+
+   Kondisi
+     1. Tambahan Username diambil dari 2 karakter depan first_name dan last_name
+--   2. User Tidak ditemukan!!! . 1 Edit User
+--   3. Ketika input dengan huruf maka Error: Input Not Valid
+--   4. Ketika array index di delete  ID akan ber urutan.
+--   5. Ketika input dengan huruf maka Error: Input Not Valid.
+
+3. Search User
+   1. Search by karakter only Name
+   
+   problem
+-- message kondisi nama tidak ditemukan.
+   Pencarian berdasarkan nama bukan angka dan simbol.
+   Tombol back/kembali
+   
+   Kondisi
+-- Search Berdasarkan karakter huruf
+   Search by karakter only Name  
+
+4. Login User
+   Kondisi:
+   Username dan Password tidak ditemukan
+
+   problem
+   Tombol back tidak ada.
